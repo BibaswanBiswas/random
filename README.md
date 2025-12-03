@@ -1,2 +1,2 @@
 # random
-Just for testing purpose
+Just for a small astronomical fun
